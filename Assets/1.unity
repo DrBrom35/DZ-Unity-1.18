@@ -944,7 +944,11 @@ ParticleSystem:
   ShapeModule:
     serializedVersion: 6
     enabled: 1
+<<<<<<< Updated upstream
     type: 4
+=======
+    type: 8
+>>>>>>> Stashed changes
     angle: 30
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
